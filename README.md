@@ -2,6 +2,6 @@
 
 Playing w/Chrome extensions...
 
-Mostly following the [Chrome Extensions Getting Started](getting-started) page.
+Mostly following the [Chrome Extensions Getting Started][getting-started] page.
 
 [getting-started]: https://developer.chrome.com/extensions/getstarted
